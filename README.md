@@ -1,4 +1,4 @@
-<h1 aling="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=1600&pause=5000&width=435&lines=Hi+👋🏼,+I'm+Álvaro+García+Campos)](https://git.io/typing-svg)</h1>
+<p aling="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=1600&pause=5000&width=435&lines=Hi+👋🏼,+I'm+Álvaro+García+Campos)](https://git.io/typing-svg)</p>
 <h3 align="center">I am finishing the Web Development course and i love programming.</h3>
 
 <p align="left">
