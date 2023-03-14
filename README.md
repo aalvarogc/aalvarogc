@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Álvaro García Campos</h1>
 <h3 align="center">I am finishing the Web Development course and i love programming.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
